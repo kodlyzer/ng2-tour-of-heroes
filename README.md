@@ -1,4 +1,4 @@
-# Angular 2 - Demo
+# Angular 2 - Tour of Heroes App
 
 Get NodeJS installed and start running the following commands. Happy Angular@!
 
